@@ -5,43 +5,54 @@
 <p style="text-align:center"><span style="font-size:16px"><span style="color:#c0392b"><em><span style="background-color:#ffffff">GLI ARTICOLI POSSONO ESSERE PERSONALIZZATI CON TESTI E IMMAGINI VOSTRE PRIVATAMENTE !</span></em></span></span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><span style="color:#c0392b"><span style="background-color:#ffffff">Per saperne di pi&ugrave; scriveteci nella chat in basso intanto vi auguriamo una buona navigazione e vi benediciamo nel nome di Ges&ugrave; voi che scegliete di portare i suoi messaggi nei vostri vestiari, all&#39;interno delle vostre case e davanti agli occhi di tutti. </span><strong><span style="background-color:#ffffff">SHALOM&nbsp;<img alt="heart" src="https://hoplix.com/js/editor2/plugins/smiley/images/heart.png" style="height:23px; width:23px" title="heart" /></span></strong></span></span></p>
-<!--1️⃣ code CSS below -->
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
 
-.btn{
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
 
-font-family: Roboto, sans-serif;
-font-weight: 0;
-font-size: 14px;
-color: #ffffff;
-background-color: #957b00;
-padding: 10px 30px;
-border: solid #957b00 2px;
-box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
-border-radius: 9px;
-transition : 526ms;
-transform: translateY(0);
-display: flex;
-flex-direction: row;
-align-items: center;
-cursor: pointer;
-}
+    .btn {
+      font-family: Roboto, sans-serif;
+      font-weight: 0;
+      font-size: 14px;
+      color: #ffffff;
+      background-color: #957b00;
+      padding: 10px 30px;
+      border: solid #957b00 2px;
+      box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+      border-radius: 9px;
+      transition: 526ms;
+      transform: translateY(0);
+      cursor: pointer;
+    }
 
-.btn:hover{
+    .btn:hover {
+      transition: 526ms;
+      padding: 10px 50px;
+      transform: translateY(-0px);
+      background-color: #ff5ca1;
+      color: #ffffff;
+      border: solid 2px #ff5ca1;
+    }
+  </style>
+</head>
+<body>
 
-transition : 526ms;
-padding: 10px 50px;
-transform : translateY(-0px);
-background-color: #ff5ca1;
-color: #ffffff;
-border: solid 2px #ff5ca1;
-}
+<div class="container">
+  <!-- Aggiunta del link intorno al pulsante -->
+  <a href="https://alan-e-rose-13.voxmail.it/user/register" target="_blank" class="btn">Iscriviti alla newsletter!</a>
+</div>
 
-</style>
+</body>
+</html>
 
-<!-- 2️⃣code HTML below -->
-
-<a href="https://alan-e-rose-13.voxmail.it/user/register" target="_blank"
-<button class="btn">Iscriviti alla newsletter!</button>
