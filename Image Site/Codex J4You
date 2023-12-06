@@ -17,7 +17,6 @@
       display: inline-block;
       padding: 10px 20px;
       font-size: 16px;
-      font-weight: bold;
       text-align: center;
       text-decoration: none;
       cursor: pointer;
@@ -27,14 +26,15 @@
       border: 2px solid #957b00;
       overflow: hidden;
       position: relative;
-      transition: background 2s, color 2s, border 2s;
+      transition: background 2s, color 2s, border 2s, font-weight 0.5s;
+      font-weight: bold;
     }
 
     .animated-button:before {
       content: '';
       display: block;
       position: absolute;
-      background: #ff5ca1;
+      background: #957b00;
       width: 100%;
       height: 100%;
       top: 0;
@@ -54,6 +54,7 @@
       background: #ff5ca1;
       color: white;
       border: 2px solid #ff5ca1;
+      font-weight: normal;
     }
 
     .animated-button:active {
