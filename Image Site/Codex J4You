@@ -23,10 +23,10 @@
       border-radius: 5px;
       background: none;
       color: #957b00;
-      border: 1px solid #957b00;
+      border: 1px solid #ff5ca1;
       overflow: hidden;
       position: relative;
-      transition: background 2s, color 2s, border 2s, font-weight 0.5s;
+      transition: background 2s, color 2s, border 2s, font-weight 2s;
       font-weight: normal;
     }
 
@@ -60,7 +60,7 @@
     .animated-button:active {
       background: #ff5ca1;
       color: white;
-      border: 2px solid #ff5ca1;
+      border: 1px solid #ff5ca1;
     }
   </style>
 </head>
