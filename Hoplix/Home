@@ -77,9 +77,55 @@
 </body>
 </html>
 
-<p><a href="https://j4you.hoplix.shop/collections/arredo-casa"><img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%201.png" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp; </a> <a href="https://j4you.hoplix.shop/collections/borse-e-accessori"> <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%202.png" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp; </a> <a href="https://j4you.hoplix.shop/collections/cuscini"> <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%203.png" style="border-style:solid; border-width:2px; height:190px; width:210px" /> </a>&nbsp;<a href="https://j4you.hoplix.shop/collections/cover"><img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%204.png" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp; </a> <a href="https://j4you.hoplix.shop/collections/abbigliamento"> <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%208.png" style="border-style:solid; border-width:2px; height:190px; width:210px" /> </a></p>
+<style>
+  /* Aggiungi una classe comune per le immagini animate */
+  .animated-image {
+    transition: transform 0.3s ease-in-out; /* Puoi personalizzare la transizione */
+  }
 
-<p>&nbsp;<a href="https://j4you.hoplix.shop/collections/tazze"><img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%207.png" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp; </a> <a href="https://j4you.hoplix.shop/collections/eco-friendly"> <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%206.png" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp; </a> <a href="https://j4you.hoplix.shop/collections/made-in-italy"> <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%205.png" style="border-style:solid; border-width:2px; height:190px; width:210px" /> </a>&nbsp;<a href="https://j4you.hoplix.shop/collections/novita"><img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%209.png" style="border-style:solid; border-width:2px; height:190px; width:210px" /></a></p>
+  /* Aggiungi uno stile hover per animare le immagini al passaggio del mouse */
+  .animated-image:hover {
+    transform: scale(1.1); /* Puoi personalizzare la scala dell'immagine */
+  }
+</style>
 
-<p><a href="https://j4you.hoplix.shop/tracking"><img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Tracking.PNG" style="border-style:solid; border-width:2px; height:33px; width:300px" /></a><a href="https://j4you.hoplix.shop/collections/novita"> </a></p>
+<p>
+  <a href="https://j4you.hoplix.shop/collections/arredo-casa">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%201.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp;
+  </a>
+  <a href="https://j4you.hoplix.shop/collections/borse-e-accessori">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%202.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp;
+  </a>
+  <a href="https://j4you.hoplix.shop/collections/cuscini">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%203.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />
+  </a>&nbsp;
+  <a href="https://j4you.hoplix.shop/collections/cover">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%204.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp;
+  </a>
+  <a href="https://j4you.hoplix.shop/collections/abbigliamento">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%208.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />
+  </a>
+</p>
+
+<p>
+  <a href="https://j4you.hoplix.shop/collections/tazze">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%207.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp;
+  </a>
+  <a href="https://j4you.hoplix.shop/collections/eco-friendly">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%206.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />&nbsp;
+  </a>
+  <a href="https://j4you.hoplix.shop/collections/made-in-italy">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%205.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />
+  </a>&nbsp;
+  <a href="https://j4you.hoplix.shop/collections/novita">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Livello%209.png" class="animated-image" style="border-style:solid; border-width:2px; height:190px; width:210px" />
+  </a>
+</p>
+
+<p>
+  <a href="https://j4you.hoplix.shop/tracking">
+    <img alt="" src="https://raw.githubusercontent.com/Alan-Rose/AeR/main/Hoplix/Tracking.PNG" class="animated-image" style="border-style:solid; border-width:2px; height:33px; width:300px" />
+  </a>
+  <a href="https://j4you.hoplix.shop/collections/novita"> </a>
+</p>
 
