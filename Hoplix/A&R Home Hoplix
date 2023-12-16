@@ -26,7 +26,7 @@
       content: '';
       display: block;
       position: absolute;
-      background: #ff5ca1;
+      background: #9900ff;
       width: 100%;
       height: 100%;
       top: 0;
@@ -43,16 +43,16 @@
     }
 
     .animated-button:hover {
-      background: #ff5ca1;
+      background: #9900ff;
       color: white;
-      border: 1px solid #ff5ca1;
+      border: 1px solid #9900ff;
       font-weight: normal;
     }
 
     .animated-button:active {
-      background: #ff5ca1;
+      background: #9900ff;
       color: white;
-      border: 1px solid #ff5ca1;
+      border: 1px solid #9900ff;
     }
 
     /* Aggiunto stile per centrare l'iframe */
