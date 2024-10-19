@@ -1,0 +1,20 @@
+addEventListener('fetch', event => {
+  event.respondWith(fetchAndModify(event.request))
+})
+
+async function fetchAndModify(request) {
+  const url = 'https://cdn.cookie-script.com/s/6f0894a66fe122fe0c076ec8daedc8c6.js'
+  
+  try {
+    const response = await fetch(url)
+    const script = await response.text()
+
+    return new Response(script, {
+      headers: {
+        'Content-Type': 'application/javascript',
+      },
+    })
+  } catch (error) {
+    return new Response('Error fetching the script', { status: 500 })
+  }
+}
