@@ -71,10 +71,12 @@
 
   <p style="text-align:center"><span style="font-size:16px"><span style="color:#c0392b"><span style="background-color:#ffffff">Per saperne di pi&ugrave; scriveteci nella chat in basso intanto vi auguriamo una buona navigazione e vi benediciamo nel nome di Ges&ugrave; voi che scegliete di portare i suoi messaggi nei vostri vestiari, all&#39;interno delle vostre case e davanti agli occhi di tutti. </span><strong><span style="background-color:#ffffff">SHALOM&nbsp;<img alt="heart" src="https://hoplix.com/js/editor2/plugins/smiley/images/heart.png" style="height:23px; width:23px" title="heart" /></span></strong></span></span></p>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/P_iVknuC9po" title="J4You Shop - Il Tuo e-commerce Cristiano ✞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <iframe width="315" height="560" src="https://www.youtube.com/embed/P_iVknuC9po" title="J4You Shop - Il Tuo e-commerce Cristiano ✞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-  <a class="animated-button" href="https://alan-e-rose-13.voxmail.it/user/register" target="_blank">Registrati alla nostra newsletter!</a>
-  <a class="animated-button" href="https://linktr.ee/alan.rose" target="_blank">Visita i nostri siti e social</a>
+<a class="animated-button" href="https://alan-e-rose-13.voxmail.it/user/register" target="_blank">Registrati alla nostra newsletter!</a>
+<a class="animated-button" href="https://linktr.ee/alan.rose" target="_blank">Visita i nostri siti e social</a>
 </body>
 </html>
 
